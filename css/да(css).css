@@ -1,0 +1,105 @@
+.da{
+	border-style: hidden;
+	background-color: #e36da4;
+	width: 1200px;
+	height: 890px;
+	display: flex;
+    flex-wrap: wrap;
+}
+.net{
+	border-style: hidden;
+	background-color: #6de3bc;
+	margin: 20px;
+	height: 90px;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 48px;
+	font-family: 'Geologica', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	width: 1150px;
+}
+.da-net{
+	display: flex;
+	flex-wrap: wrap;
+	color: white;
+}
+.neznayu{
+	border-style: hidden;
+	width: 30%;
+	height: 548px;
+	background-color: #009e8e;
+	margin: 20px;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 48px;
+	font-family: 'Geologica', sans-serif;
+	font-family: 'Roboto', sans-serif;
+
+
+}
+.znayu{
+	border-style: hidden;
+	background-color: #d40051;
+	margin: 20px;
+	width: 63%;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 48px;
+	font-family: 'Geologica', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	flex-wrap: wrap;
+}
+.image1{
+	background-color: grey;
+	border-style: hidden;
+	color: white;
+	margin: 20px;
+	font-size: 48px;
+	font-family: 'Geologica', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	width: 200px;
+	height: 200px;
+}
+.image2{
+	background-color: grey;
+	border-style: hidden;
+	color: white;
+	margin: 20px;
+	font-size: 48px;
+	font-family: 'Geologica', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	width: 200px;
+	height: 200px;
+}
+.image3{
+	background-color: grey;
+	border-style: hidden;
+	color: white;
+	margin: 20px;
+	font-size: 48px;
+	font-family: 'Geologica', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	width: 200px;
+	height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.gg{
+	width: 70%;
+	height: 250px;
+	display: flex;
+	justify-content: center;
+	align-items: end;
+}
+.image1 , .image2 , .image3{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
